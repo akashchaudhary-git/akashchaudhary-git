@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm [Akash Chaudhary](https://chaudharyakash.com)
 
+
+
 ## About Me
 
 Experienced Full-Stack Developer with a diverse skill set in C#, Java, Node JS, .Net, and React. I specialize in developing robust and scalable cloud-based solutions leveraging Azure services like Azure App Services, Azure Bot, and Azure Open AI integration.
@@ -25,6 +27,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/akash-chaudhary-profil
 
 ## My Stats
 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashchaudhary-git&theme=darcula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashchaudhary-git&theme=darcula) 
@@ -32,3 +35,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/akash-chaudhary-profil
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashchaudhary-git&theme=darcula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashchaudhary-git&theme=darcula&utcOffset=8) 
+
+![](https://komarev.com/ghpvc/?username=akashchaudhary-git&color=orange&style=for-the-badge)
