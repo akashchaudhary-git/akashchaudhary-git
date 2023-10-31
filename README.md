@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm [Akash Chaudhary](https://chaudharyakash.com)
 
-
+[![An image of @akashchaudharygit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashchaudharygit)](https://holopin.io/@akashchaudharygit)
 
 ## About Me
 
